@@ -1,1 +1,1 @@
-# https-github.com-maaggynite-retail-sales-powerbi
+# https://github.com/maaggynite/retail-sales-powerbi
